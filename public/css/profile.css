@@ -1,0 +1,122 @@
+
+.card {
+    width: 450px;
+    background-color: #e4d3d3;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.image img {
+    transition: all 0.5s
+}
+
+.card:hover .image img {
+    transform: scale(1.5)
+}
+
+.btnn {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%
+}
+
+.name {
+    font-size: 22px;
+    font-weight: bold
+}
+
+.idd {
+    font-size: 14px;
+    font-weight: 600
+}
+
+.idd1 {
+    font-size: 12px
+}
+
+.number {
+    font-size: 22px;
+    font-weight: bold
+}
+
+.follow {
+    font-size: 12px;
+    font-weight: 500;
+    color: #444444
+}
+
+.btn1 {
+    height: 40px;
+    width: 150px;
+    border: none;
+    background-color: #000;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'pacifico';
+    
+}
+
+.text span {
+    font-size: 13px;
+    color: #ac1616;
+    font-weight: 500
+}
+
+.icons i {
+    font-size: 23px
+}
+
+hr .new1 {
+    border: 1px solid
+}
+
+.join {
+    font-size: 14px;
+    color: #a0a0a0;
+    font-weight: bold
+}
+
+.date {
+    background-color: #130101
+}
+
+
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}
+
+.mt-4 {
+    margin-top: 1.5rem!important;
+}
+.p-3 {
+    padding: 1rem!important;
+}
+.container {
+    width: 750px;
+}
+
+button, select {
+    text-transform: none;
+}
+button {
+    overflow: visible;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+.profile{
+    background: rgb(226,49,18);
+    background: linear-gradient(329deg, rgba(226,49,18,1) 3%, rgba(213,130,142,1) 39%, rgba(230,120,24,1) 65%, rgba(236,216,23,1) 99%);    border: 2px #b13b10 solid;
+    width: 450px;
+    max-height: 105vh;
+    margin-top: 20px;
+    margin-left: 370px;
+    padding-top: 30px;
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif   ;
+}
